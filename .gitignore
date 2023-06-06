@@ -3,6 +3,10 @@
 input/*
 output/*
 
+# exception to the rule
+!input/.gitkeep
+!output/.gitkeep
+
 # virtualenv
 
 .venv
