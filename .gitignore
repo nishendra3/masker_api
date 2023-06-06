@@ -1,0 +1,11 @@
+# data from folders
+
+input/*
+output/*
+
+# virtualenv
+
+.venv
+
+
+
